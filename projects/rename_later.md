@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/null.jpg
 title: "idkyet"
 date: 2019-06-01
 published: true
