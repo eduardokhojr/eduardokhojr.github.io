@@ -11,7 +11,7 @@ labels:
 summary: "Program in which keeps score for a bowling game for up to 4 players"
 ---
 
-<img class="img-fluid" src="../img/bowlingsheet.jpeg">
+<img class="img-fluid" src="../img/bowlingsheet.jpg">
 
 ## What is it?
 
