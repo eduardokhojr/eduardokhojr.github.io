@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/paddling1.jpg
 title: "OIA Outrigger Canoe Regatta"
-date: 2019-06-01
+date: 2019-02-22
 published: true
 labels:
   - Physical Activity
