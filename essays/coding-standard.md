@@ -21,4 +21,6 @@ Prior to this course, I have never made use of a coding standard or used somethi
 
 Now having experience and exposure to using ESLint and IntelliJ, I find myself using it quite often and coding such that no errors arise in the first place. While it may be near impossible to perfect every line of code that I write, I limit the amount of errors made because of how much I do not like seeing them. At first, the errors seemed like they were a bit unecessary, but that was only because I was unfamiliar with the convention. I eventually learned  The errors have helped change my way of coding to a much neater degree. With ESLint and IntelliJ together, I find that I am having a much simpler and more enjoyable time learning Javascript than if I did not have these resources. 
 
-##
+## Rolling ESLint Can Save Your Life!
+
+Implementing something like ESLint or another language coding standard equivalent is something that I would recommend to anyone that codes. Whether you code daily or any less frequent, a tool like ESLint can not only enhance the way that you approach a code but will help you display a sense of professionalism and knowledge about that specfic languge. While it may not be for everyone, I think coding standards are something that any type of coder should try at least once in their coding career.
