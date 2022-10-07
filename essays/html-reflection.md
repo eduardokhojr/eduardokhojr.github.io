@@ -23,4 +23,10 @@ Boostrap, a HTML framework allows for easier configuration for website objects. 
 
 <img width="750px" class="rounded float-start pe-4" src="../img/duke.png">
 
-##
+## I prefer straps not laces for my boots
+
+After using Bootstrap for HTML coding, I find that it is very useful. I get to declutter my css file while also creating websites with decent design like shown above. I find them especially useful in applications like this class. Bootstrap allows me to actually read through my code and understand the layers which I can change based on what I want. Using raw HTML and CSS I find myself having lots of tiny edits to get things to line up exactly the way I want it to. With Bootstrap, I no longer have to worry about these small things. I think software engineers will greatly benefit from using a framework like Bootstrap. While I do not know the distinct differences between Bootstrap and other HTML frameworks, I believe using one will allow for a much more efficient work environment.
+
+## Conclusion
+
+I have found that my overall experience with Bootstrap has been very positive. I did see that there was a giant learning curve and that I had to get used to all the syntax and making sure that I import/include all the necessary files and links. Once I got over that hardship, it made coding HTML much simpler and easier to read. Although I have not used any other framework other than Bootstrap, I highly recommend any software engineer to implement this into their daily coding lives.
