@@ -21,7 +21,7 @@ HTML, the coding language of the world wide web. Learning this language is defin
 
 Boostrap, a HTML framework allows for easier configuration for website objects. Learning to use Bootstrap in HTML is another task on its own. When I began learning it, I faced a large learning curve. There were many aspects to remember because we are essentially using a new library. However, because the process is practically same in raw HTML it is easy to adapt figure out what you need in a simple Google search. Bootstrap definitely decreases the amount of lines I have to type but it does require some thinking so that you apply the correct format. Debugging Bootstrap HTML may be easier to look through as there is a massive return for the investment of time remembering and troubleshooting to begin with.
 
-<img width="750px" class="rounded float-start pe-4" src="../img/duke.png">
+<img width="650px" class="rounded float-start pe-4" src="../img/duke.png">
 
 ## I prefer straps not laces for my boots
 
