@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/paddling1.jpg
+image: img/outrig.png
 title: "OIA Outrigger Canoe Regatta"
 date: 2019-02-22
 published: true
