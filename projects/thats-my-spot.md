@@ -13,7 +13,7 @@ labels:
 summary: "Program in which students and faculty can use to reserve a parking stall at the UH Manoa Zone 20 parking structure"
 ---
 
-<img class="img-fluid" src="../img/uhmtms.png">
+<img class="img-fluid" src="../img/uhmtms.PNG">
 
 ## What is it?
 
