@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Long Few Months"
+title: "Long Few Months"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-26
 published: true
@@ -11,7 +11,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/manoa-post.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/manoa-post.png">
 
 ## The Start
   At the beginning of the semester we formed our group to complete our task of creating a web application to keep track of the 3rd floor POST infrastructure. For the first few milestones I was not able to gague how much work we were able to to within a short amount of time. However, we got the first few pages and we eventually took off with progress. We agreed to delegate tasks and have people work on what they were most comfortable with which was relieving. We hoped that everyones effort would later come together for something good. Since everyone was working on their own individual things, it was hard to understand what was happening but having code reviews helped alleviate this issue.
