@@ -4,7 +4,7 @@ type: project
 image: img/first.png
 title: "High School Physics Olympics Competition (First Place)"
 date: 2019-03-21
-published: true
+published: false
 labels:
   - Teamwork
   - Physics
