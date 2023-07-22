@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "Eduardo Kho Jr.",
+    "label": "Student",
+    "picture": "https://github.com/eduardokhojr.png",
+    "email": "eduardok@hawaii.edu",
+    "phone": "808-729-8602",
+    "website": "https://eduardokhojr.github.io",
+    "summary": "Student working toward their B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Fall, 2023.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "eduardokhojr", "url": "http://github.com/eduardokhojr" },
+      { "network": "linkedin", "username": "eduardokhojr", "url": "https://www.linkedin.com/in/eduardokhojr" },
+      { "network": "instagram", "username": "eduardokhojr", "url": "http://instagram.com/eduardokhojr" }
+    ]
+  },
+  "interests": [
+    { "name": "Electrical Engineering" },
+    { "name": "Full Stack Software Engineering" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Python", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux", "Git/GitHub", "g++", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Warrior Recreation Center",
+      "position": "Lead Front Desk Office Manager",
+      "website": "https://manoa.hawaii.edu/studentlife/recreation/recreation-center/",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "summary": "Lead Manager for the Front Desk Operation Unit",
+      "highlights": [
+        "Delegate task to General Managers",
+        "Provide quality customer service while maintaining informational desk operation"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Athletic Scholar",
+      "date": "2019",
+      "awarder": "William McKinley High School",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school while being on a Varsity Sport Team."
+    },
+    {
+      "title": "Physics Olympics (First Place)",
+      "date": "2019",
+      "awarder": "McKinley High School",
+      "summary": "My team won first place in 2019 in multiple events for the Annual Highschool Physics Olympics. See my portfolio site for more details."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
